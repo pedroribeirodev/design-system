@@ -1,0 +1,2 @@
+import{A as r}from"./index-8f0d6691.js";import"./index-38bc9197.js";import"./iframe-531be1d7.js";import"./index-fa93e246.js";import"./jsx-runtime-1b3971b4.js";const e={title:"Data display/Avatar",component:r,args:{src:"https://github.com/pedroribeirodev.png",alt:"Pedro Ribeiro"}},p={},m={args:{src:void 0}},c=["Primary","WithFallback"];export{p as Primary,m as WithFallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories-0216ffc6.js.map
