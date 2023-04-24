@@ -1,5 +1,5 @@
 {
-  "name": "@marketplace/tokens",
+  "name": "@pedro-marketplace/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
