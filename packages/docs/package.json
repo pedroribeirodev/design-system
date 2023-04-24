@@ -28,9 +28,9 @@
     "vite": "^4.1.4"
   },
   "dependencies": {
-    "@marketplace/react": "*",
-    "@marketplace/tokens": "*",
-    "@marketplace/ts-config": "*",
+    "@pedro-marketplace/react": "*",
+    "@pedro-marketplace/tokens": "*",
+    "@pedro-marketplace/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.12",
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",

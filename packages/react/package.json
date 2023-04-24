@@ -14,8 +14,8 @@
   "author": "Pedro Ribeiro",
   "license": "MIT",
   "devDependencies": {
-    "@marketplace/tokens": "*",
-    "@marketplace/ts-config": "*",
+    "@pedro-marketplace/tokens": "*",
+    "@pedro-marketplace/ts-config": "*",
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "react": "^18.2.0",

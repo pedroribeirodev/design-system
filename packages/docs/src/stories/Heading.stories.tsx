@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from "@storybook/react";
-import { Heading, HeadingProps } from "@marketplace/react";
+import { Heading, HeadingProps } from "@pedro-marketplace/react";
 
 export default {
   title: "Typography/Heading",

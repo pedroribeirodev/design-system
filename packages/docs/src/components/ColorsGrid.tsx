@@ -1,4 +1,4 @@
-import { colors } from "@marketplace/tokens";
+import { colors } from "@pedro-marketplace/tokens";
 
 export function ColorsGrid() {
   return Object.entries(colors).map(([key, color]) => {

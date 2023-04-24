@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from "@marketplace/tokens";
+} from "@pedro-marketplace/tokens";
 import { createStitches, defaultThemeMap } from "@stitches/react";
 
 export const {

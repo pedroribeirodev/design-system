@@ -1,4 +1,4 @@
 {
-  "extends": "@marketplace/ts-config/react.json",
+  "extends": "@pedro-marketplace/ts-config/react.json",
   "include": ["src"]
 }

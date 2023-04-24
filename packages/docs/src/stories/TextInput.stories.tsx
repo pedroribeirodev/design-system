@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from "@storybook/react";
-import { Box, Text, TextInput, TextInputProps } from "@marketplace/react";
+import { Box, Text, TextInput, TextInputProps } from "@pedro-marketplace/react";
 
 export default {
   title: "Form/Text Input",
